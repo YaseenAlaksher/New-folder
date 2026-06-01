@@ -456,6 +456,33 @@ nav a:active{
   margin-bottom:0px;
 }
 
+.contact-link{
+  color:var(--primary);
+  text-decoration:none;
+
+  transition:.3s;
+}
+
+.contact-link:hover{
+  color:white;
+  transform:translateX(4px);
+}
+
+.contact-link p{
+  color:var(--muted);
+}
+
+.contact-link p:hover{
+  color:white;
+}
+
+.contact-link a{
+  color:var(--primary);
+  text-decoration:none;
+
+  transition:.3s;
+}
+
 footer{
   padding:40px;
   text-align:center;
