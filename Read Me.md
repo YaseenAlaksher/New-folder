@@ -103,7 +103,7 @@ Through building this portfolio, I practiced:
 
 Front-End Developer
 
-* Email: [yassenelakshar@gmail.com](mailto:yassenelakshar@gmail.com)
+* Email: [yassenelaksher@gmail.com](mailto:yassenelaksher@gmail.com)
 * GitHub: https://github.com/YaseenAlaksher
 
 ---
